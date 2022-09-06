@@ -34,7 +34,11 @@ alt="scikit_learn" width="50" height="50"/> </a> &nbsp; <a href="https://seaborn
 <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/200.webp?cid=ecf05e473jsalgnr0edawythfdeh3o2gnrisk725vn7x9n72&rid=200.webp&ct=s" alt="python" width="50" height="50"/>
 <img src="https://camo.githubusercontent.com/fac27adcfc561c91fa740dc8bb6ce2c8aca7135b7f3c27e7743b7bcdb58c7b23/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d7a334843366c6d554c57732f565930342d637134376b492f41414141414141414177512f57483752564e465f5a63412f73313630302f66306666353336656238323434626533613832353830336536663034663439392e676966" alt="python" width="50" height="50"/>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henil21&show_icons=true&locale=en" alt="henil21" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henil21&" alt="henil21" /></p>
+ 
+ 
 <br>
 <br>
 <br>
