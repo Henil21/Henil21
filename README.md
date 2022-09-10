@@ -26,7 +26,8 @@ src="https://media.giphy.com/media/iTIf7qXolGeBi8FVhB/giphy.gif" alt="instagram"
 <p align="left">
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.webp?cid=ecf05e47hpmrfe46yfbz14y8p6wkjqg4kj5hjpffjn2zan9d&rid=giphy.webp&ct=s" alt="tensorflow" width="50" height="50"/></a> &nbsp; <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/firebase.gif"
 alt="scikit_learn" width="50" height="50"/> </a> &nbsp; <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://media0.giphy.com/media/p7l6subf8WlFK/200.webp?cid=ecf05e472j8ufhiqbsz74tfghvw67xyg4skm5z8ejqldvg6f&rid=200.webp&ct=s" alt="pandas" width="50" height="50"/> </a> &nbsp; <a href="https://numpy.org/doc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="50" height="50"/> </a>  </a> <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" alt="Matplotlib" width="60" height="40"/> </a>  &nbsp;  <a href="https://github.com/Henil21/ target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e475lboadlycpr8ejchbq584fcya6227vclc9oldkp7&rid=200.webp&ct=s" alt="Github" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><br>
 
 <img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" alt="Github" width="50" height="50"/>
 <img alt="React" width="50" height="50" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp?cid=ecf05e47xgjadiso624stjb4qu4yvdu57rpz12lk0d6t38qk&rid=200w.webp&ct=s">
@@ -34,6 +35,8 @@ alt="scikit_learn" width="50" height="50"/> </a> &nbsp; <a href="https://seaborn
 <img src="https://img.icons8.com/color/344/nodejs.png" alt="Node" width="50" height="50"/>
 <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/200.webp?cid=ecf05e473jsalgnr0edawythfdeh3o2gnrisk725vn7x9n72&rid=200.webp&ct=s" alt="python" width="50" height="50"/>
 <img src="https://camo.githubusercontent.com/fac27adcfc561c91fa740dc8bb6ce2c8aca7135b7f3c27e7743b7bcdb58c7b23/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d7a334843366c6d554c57732f565930342d637134376b492f41414141414141414177512f57483752564e465f5a63412f73313630302f66306666353336656238323434626533613832353830336536663034663439392e676966" alt="python" width="50" height="50"/>
+ 
+ 
 
 
 
