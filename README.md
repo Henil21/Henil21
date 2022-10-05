@@ -11,6 +11,8 @@ src="https://media.giphy.com/media/iTIf7qXolGeBi8FVhB/giphy.gif" alt="instagram"
 - 🌱 I’m currently working to be an expert in TensorFlow
 - 📫 How to reach me: 👇 Click on the icons below on which you want to reach out
 
+
+
  <a href="https://www.instagram.com/henil_sinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/eTtXHP8CyQHHa4M8EM/200w.webp?cid=ecf05e47w70y4ti9kcbgc0d174dub29rv6s4yhuhbh00709m&rid=200w.webp&ct=s" alt="instagram" width="50" height="50"/></a>   &nbsp;   <a href="https://t.me/Henil_Raj" target="_blank" rel="noreferrer"> <img src="https://c.tenor.com/s-XyqNCtw7QAAAAi/telegram.gif" alt="telegram" width="50" height="50"/></a> &nbsp; <a href="mailto:henilsinhrajraj@gmail.com" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.webp?cid=ecf05e478tpxg3xdjlmb9f8nptfokgkhk2v6kfmfxnrj8n5g&rid=giphy.webp&ct=s" alt="mail" width="60" height="60"/></a> <a href="https://www.facebook.com/henilsinhraj.raj/" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/uxPlGvoc1TlgPF0deH/200w.webp?cid=ecf05e47z5k3a32t04ano55a5ulic1ictlezlo8raya2l9h4&rid=200w.webp&ct=s" alt="facebook" width="50" height="50"/></a>
  <a href="https://www.linkedin.com/in/henil-sinh-raj-1b949321b/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?resize=300%2C300&ssl=1" alt="facebook" width="50" height="50"/></a>
       
@@ -37,7 +39,8 @@ alt="scikit_learn" width="50" height="50"/> </a> &nbsp; <a href="https://seaborn
 <img src="https://img.icons8.com/color/344/nodejs.png" alt="Node" width="50" height="50"/>
 <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/200.webp?cid=ecf05e473jsalgnr0edawythfdeh3o2gnrisk725vn7x9n72&rid=200.webp&ct=s" alt="python" width="50" height="50"/>
 <img src="https://camo.githubusercontent.com/fac27adcfc561c91fa740dc8bb6ce2c8aca7135b7f3c27e7743b7bcdb58c7b23/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d7a334843366c6d554c57732f565930342d637134376b492f41414141414141414177512f57483752564e465f5a63412f73313630302f66306666353336656238323434626533613832353830336536663034663439392e676966" alt="python" width="50" height="50"/>
- 
+ <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
  
 
 
