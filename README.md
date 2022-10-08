@@ -7,7 +7,7 @@ src="https://media.giphy.com/media/iTIf7qXolGeBi8FVhB/giphy.gif" alt="instagram"
 ✨ I am `Henilsinh Raj`✨
 
 
-- 🔭 I’m a very curious and passionate about ML and Bloackchain
+- 🔭 I’m a passionately curious about ML and Bloackchain
 - 🌱 I’m currently working to be an expert in TensorFlow
 - 📫 How to reach me: 👇 Click on the icons below on which you want to reach out
 
