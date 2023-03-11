@@ -1,4 +1,4 @@
-## Hi there <a href="https://www.instagram.com/henil_sinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/FCffpN404oRZpFbSzl/giphy.gif" alt="instagram" width="60" height="60"/>
+## Namaste🙏 <a href="https://www.instagram.com/henil_sinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/FCffpN404oRZpFbSzl/giphy.gif" alt="instagram" width="60" height="60"/>
 <img 
 src="https://media.giphy.com/media/iTIf7qXolGeBi8FVhB/giphy.gif" alt="instagram" width="60" height="60"/></a>
 
