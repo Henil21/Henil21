@@ -1,51 +1,40 @@
-## Namaste🙏 <a href="https://www.instagram.com/henil_sinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/FCffpN404oRZpFbSzl/giphy.gif" alt="instagram" width="60" height="60"/>
-<img 
-src="https://media.giphy.com/media/iTIf7qXolGeBi8FVhB/giphy.gif" alt="instagram" width="60" height="60"/></a>
+## Namaste 🙏
 
+### ✨ I'm Henilsinh Raj ✨
 
+- 🔭 Passionately curious about **ML** and **Blockchain**
+- 🌱 Currently working to become an expert in **TensorFlow**
+- 📫 Reach me on:
 
-✨ I am `Henilsinh Raj`✨
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henil_sinh_raj/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Henil_Raj)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henilsinhrajraj@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/henilsinhraj.raj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henilsinh-raj-1b949321b)
 
+---
 
-- 🔭 I’m a passionately curious about ML and Bloackchain
-- 🌱 I’m currently working to be an expert in TensorFlow
-- 📫 How to reach me: 👇 Click on the icons below on which you want to reach out
+## ⚙️ Languages & Tools
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
- <a href="https://www.instagram.com/henil_sinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/eTtXHP8CyQHHa4M8EM/200w.webp?cid=ecf05e47w70y4ti9kcbgc0d174dub29rv6s4yhuhbh00709m&rid=200w.webp&ct=s" alt="instagram" width="50" height="50"/></a>   &nbsp;   <a href="https://t.me/Henil_Raj" target="_blank" rel="noreferrer"> <img src="https://c.tenor.com/s-XyqNCtw7QAAAAi/telegram.gif" alt="telegram" width="50" height="50"/></a> &nbsp; <a href="mailto:henilsinhrajraj@gmail.com" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.webp?cid=ecf05e478tpxg3xdjlmb9f8nptfokgkhk2v6kfmfxnrj8n5g&rid=giphy.webp&ct=s" alt="mail" width="60" height="60"/></a> <a href="https://www.facebook.com/henilsinhraj.raj/" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/uxPlGvoc1TlgPF0deH/200w.webp?cid=ecf05e47z5k3a32t04ano55a5ulic1ictlezlo8raya2l9h4&rid=200w.webp&ct=s" alt="facebook" width="50" height="50"/></a>
-<a href="https://www.linkedin.com/in/henilsinh-raj-1b949321b" target="_blank" rel="noreferrer"> <img src="https://media1.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif?cid=ecf05e47a1rivi4kawpoh3aa86gh4000j5kxqk4uidig7z4i&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="linkedin" width="60" height="60"/></a>
-      
+## 📊 GitHub Stats
 
-<br>
-<br>
-<br>
-## ⚙ Some of the Languages and Tools I know
-<br>
-<p align="left">
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.webp?cid=ecf05e47hpmrfe46yfbz14y8p6wkjqg4kj5hjpffjn2zan9d&rid=giphy.webp&ct=s" alt="tensorflow" width="50" height="50"/></a> &nbsp; <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/firebase.gif"
-alt="scikit_learn" width="50" height="50"/> </a> &nbsp; <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://media0.giphy.com/media/p7l6subf8WlFK/200.webp?cid=ecf05e472j8ufhiqbsz74tfghvw67xyg4skm5z8ejqldvg6f&rid=200.webp&ct=s" alt="pandas" width="50" height="50"/> </a> &nbsp; <a href="https://numpy.org/doc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="50" height="50"/> </a>  </a> <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" alt="Matplotlib" width="60" height="40"/> </a>  &nbsp;  <a href="https://github.com/Henil21/ target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e475lboadlycpr8ejchbq584fcya6227vclc9oldkp7&rid=200.webp&ct=s" alt="Github" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
- <img src="https://pngset.com/images/c-programming-language-logo-label-text-number-symbol-transparent-png-783172.png"alt="C" width="50" height="50"/>
- </a><br>
-
-<img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" alt="Github" width="50" height="50"/>
-<img alt="React" width="50" height="50" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp?cid=ecf05e47xgjadiso624stjb4qu4yvdu57rpz12lk0d6t38qk&rid=200w.webp&ct=s">
-<img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47v32fb9lwgerup3mp93jolrnmadrswh6lek4qz0pu&rid=200w.webp&ct=s" alt="JavaScript" width="50" height="50"/>
-<img src="https://img.icons8.com/color/344/nodejs.png" alt="Node" width="50" height="50"/>
-<img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/200.webp?cid=ecf05e473jsalgnr0edawythfdeh3o2gnrisk725vn7x9n72&rid=200.webp&ct=s" alt="python" width="50" height="50"/>
-<img src="https://camo.githubusercontent.com/fac27adcfc561c91fa740dc8bb6ce2c8aca7135b7f3c27e7743b7bcdb58c7b23/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d7a334843366c6d554c57732f565930342d637134376b492f41414141414141414177512f57483752564e465f5a63412f73313630302f66306666353336656238323434626533613832353830336536663034663439392e676966" alt="python" width="50" height="50"/>
- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
- 
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henil21&" alt="henil21" /></p>
- 
- 
-<br>
-<br>
-<br>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henil21&theme=dark)](https://github.com/henil21)
