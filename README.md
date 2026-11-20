@@ -1,40 +1,33 @@
-## Namaste 🙏
+# Henilsinh Raj
 
-### ✨ I'm Henilsinh Raj ✨
+AI engineer in Hyderabad. I build LLM and speech systems and take them all the way to deployment:
+fine-tuning, quantization for edge hardware, and the APIs and apps around them.
 
-- 🔭 Passionately curious about **ML** and **Blockchain**
-- 🌱 Currently working to become an expert in **TensorFlow**
-- 📫 Reach me on:
+- **Now:** AI Full Stack Developer at Mondee, building Indic-language medical voice-to-voice AI
+  (speech recognition, MedGemma reasoning, speech synthesis with voice cloning).
+- **Before:** Research intern with Bhashini at IIIT Hyderabad. Built offline text-to-speech for
+  8 Indic languages and shipped it on Android with ONNX INT8.
+- **Also:** Founder of AtomAI, an AI and software studio, and Axamine AI, a healthcare AI venture.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henil_sinh_raj/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Henil_Raj)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henilsinhrajraj@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/henilsinhraj.raj/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henilsinh-raj-1b949321b)
+## Selected work
 
----
+| Project | What it is |
+|---|---|
+| [TTS-AVATAR-1](https://github.com/Henil21/TTS-AVATAR-1) | Real-time streaming talking-head avatar with Indic TTS. Splits rendering across two T4 GPUs to go from 0.51x to 1.0x real-time, streams frames over WebSocket with audio-clock A/V sync. |
+| [Bhashini-TTS](https://github.com/Henil21/Bhashini-TTS) | Offline Indic text-to-speech (FastSpeech2-HS + HiFi-GAN) exported to ONNX INT8 for on-device Android. |
+| [federated-learning-distilbert-Quantized](https://github.com/Henil21/federated-learning-distilbert-Quantized) | Federated (FedAvg) fine-tuning of DistilBERT for question answering, with INT16 weight transfer and ONNX INT8 export. |
+| [LLM-Council](https://github.com/Henil21/LLM-Council) | Multi-model debate pipeline: supporting and opposing arguments, evidence check, final judgement. |
 
-## ⚙️ Languages & Tools
+## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Python, PyTorch, Hugging Face Transformers and PEFT (LoRA, QLoRA), llama.cpp (GGUF), ONNX Runtime,
+Whisper, NeMo, FAISS, Flask, Node.js, React, Next.js, PostgreSQL, Android (Kotlin)
 
----
+## Research and writing
 
-## 📊 GitHub Stats
+- Best Paper Award, FICTA-2025, for a Transformer model for Hindi tokenization and generation
+- Books: *Fundamentals of Natural Language Processing* and *Fundamentals of CNN with TensorFlow*
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henil21&theme=dark)](https://github.com/henil21)
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/henilsinh-raj) | [Email](mailto:henilsinhrajraj@gmail.com) | [Research site](https://henilsinh-raj-research.vercel.app)
